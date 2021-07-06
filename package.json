@@ -1,4 +1,5 @@
 {
+  "name": "omi-roll",
   "bin": {
     "roll": "bin/roll.js"
   },
